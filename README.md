@@ -48,7 +48,9 @@ public void setSize(int s){
 ```
   (4)
 ```
-public 
+public pc(){
+
+     }
 ```
   (5)
 ```
@@ -59,7 +61,8 @@ public
   (6)
 ```
 public cpu(){
-}
+
+    }
 ```
   (7)
 ```
