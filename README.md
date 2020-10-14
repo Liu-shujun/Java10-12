@@ -48,9 +48,7 @@ public void setSize(int s){
 ```
   (4)
 ```
- public void setPrice(int p){
-		   this.price=p;
-	   }
+public 
 ```
   (5)
 ```
@@ -60,9 +58,8 @@ public void setSize(int s){
 ```
   (6)
 ```
-public void setHardDisk(HardDisk h){
-    	this.HD=h;
-    }
+public cpu(){
+}
 ```
   (7)
 ```
