@@ -14,12 +14,18 @@ Java项目（计算机）
   
   3.PC类：setCPU(CPU c)将参数c的值赋值给CPU，setHardDisk(HardDisk h)方法将参数h的值赋给HD，show()方法显示CPU的速度和硬盘的容量
   
-  4.Test类：(1)main方法中创建了一个CPU对象cpu,cpu将自己的speed设置为2200。
-            (2)创建了一个HardDisk对象disk，disk将自己的amount设置为200。
-            (3)创建了一个PC对象pc。
-            (4)pc调用setCPU(CPU c)方法，调用时实参是cpu。
-            (5)pc调用setHarDisk(HardDisk h)方法，调用时实参是disk。
-            (6)pc调用show()方法。
+  4.Test类：
+   (1)main方法中创建了一个CPU对象cpu,cpu将自己的speed设置为2200。
+  
+   (2)创建了一个HardDisk对象disk，disk将自己的amount设置为200。
+	    
+   (3)创建了一个PC对象pc。 
+  
+   (4)pc调用setCPU(CPU c)方法，调用时实参是cpu。
+  
+   (5)pc调用setHarDisk(HardDisk h)方法，调用时实参是disk。
+  
+   (6)pc调用show()方法。
 ## 三.核心方法
   (1)
 ```
