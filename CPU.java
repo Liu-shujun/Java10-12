@@ -3,6 +3,8 @@ package CPU;
 public class CPU {
    int speed;
    double size;
+   public cpu (){
+   }
    public double getSize(){
 	   return size;
    }
